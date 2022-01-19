@@ -10,5 +10,5 @@ $ make run
 https://gist.github.com/sandeep-sarkar/082abfef7340f15c4ae030e6aa7ecb01
 
 ## TODO
-1. Add link to first link
+1. Add link to first element
 2. Realise other methods
