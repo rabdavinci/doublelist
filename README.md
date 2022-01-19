@@ -8,3 +8,7 @@ $ make run
 
 ## SOURCE
 https://gist.github.com/sandeep-sarkar/082abfef7340f15c4ae030e6aa7ecb01
+
+## TODO
+1. Add link to first link
+2. Realise other methods
